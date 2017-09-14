@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Web Developer Express 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSiteSuiviTrace", "..\..\WebSites\WebSiteSuiviTrace\", "{052D40BD-A860-457C-9439-6AE523F6DC0F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/WebSiteSuiviTrace"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebSiteSuiviTrace\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteSuiviTrace\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSiteSuiviTrace"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebSiteSuiviTrace\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteSuiviTrace\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1223"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052D40BD-A860-457C-9439-6AE523F6DC0F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{052D40BD-A860-457C-9439-6AE523F6DC0F}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

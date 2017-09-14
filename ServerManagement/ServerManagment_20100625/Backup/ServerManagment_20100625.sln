@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Web Developer Express 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServerManagment_20100625", "..\..\WebSites\ServerManagment_20100625\", "{69642614-4C79-40D1-82A3-0F6135217ED8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/ServerManagment_20100625"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\ServerManagment_20100625\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ServerManagment_20100625\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ServerManagment_20100625"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\ServerManagment_20100625\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ServerManagment_20100625\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49163"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69642614-4C79-40D1-82A3-0F6135217ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69642614-4C79-40D1-82A3-0F6135217ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

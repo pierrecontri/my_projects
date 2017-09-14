@@ -1,0 +1,95 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("b1zpstage.europe.prestagroup.com")
+    DateTime=2010-07-22T08:13:57.0086833Z
+w3wp.exe Warning: 0 : TKPEUROPE\conpie : True
+    DateTime=2010-07-22T08:13:57.0086833Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1005")
+    DateTime=2010-07-22T08:13:57.1493110Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1030")
+    DateTime=2010-07-22T08:13:57.2118122Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1086")
+    DateTime=2010-07-22T08:13:57.2586881Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1092")
+    DateTime=2010-07-22T08:13:57.3368146Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1119")
+    DateTime=2010-07-22T08:13:57.3993158Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot open Service Control Manager on computer 'b1m1153'. This operation might require other privileges.
+   at System.ServiceProcess.ServiceController.GetDataBaseHandleWithAccess(String machineName, Int32 serviceControlManaqerAccess)
+   at System.ServiceProcess.ServiceController.GetDataBaseHandleWithEnumerateAccess(String machineName)
+   at System.ServiceProcess.ServiceController.GetServicesOfType(String machineName, Int32 serviceType)
+   at System.ServiceProcess.ServiceController.GetServices(String machineName)
+   at ServerManagment.LoadServiceList()
+    DateTime=2010-07-22T08:14:18.3840937Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b1m1154")
+    DateTime=2010-07-22T08:14:18.4622202Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1148")
+    DateTime=2010-07-22T08:14:18.5403467Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1182")
+    DateTime=2010-07-22T08:14:18.6184732Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2673")
+    DateTime=2010-07-22T08:14:18.6653491Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2674")
+    DateTime=2010-07-22T08:14:18.7122250Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2676")
+    DateTime=2010-07-22T08:14:18.7591009Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2753")
+    DateTime=2010-07-22T08:14:18.8216021Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2755")
+    DateTime=2010-07-22T08:14:18.8841033Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2756")
+    DateTime=2010-07-22T08:14:18.9466045Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2757")
+    DateTime=2010-07-22T08:14:18.9934804Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2895")
+    DateTime=2010-07-22T08:14:19.0559816Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2765")
+    DateTime=2010-07-22T08:14:19.1184828Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2766")
+    DateTime=2010-07-22T08:14:19.1809840Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2767")
+    DateTime=2010-07-22T08:14:19.2434852Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2770")
+    DateTime=2010-07-22T08:14:19.3059864Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2771")
+    DateTime=2010-07-22T08:14:19.3684876Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2781")
+    DateTime=2010-07-22T08:14:19.4309888Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2782")
+    DateTime=2010-07-22T08:14:19.4934900Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2783")
+    DateTime=2010-07-22T08:14:19.5403659Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2787")
+    DateTime=2010-07-22T08:14:19.5872418Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2788")
+    DateTime=2010-07-22T08:14:19.6966189Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2790")
+    DateTime=2010-07-22T08:14:19.7591201Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2791")
+    DateTime=2010-07-22T08:14:19.8216213Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2791")
+    DateTime=2010-07-22T08:14:19.8841225Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2790")
+    DateTime=2010-07-22T08:14:19.9778743Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2799")
+    DateTime=2010-07-22T08:14:20.0403755Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-M2890")
+    DateTime=2010-07-22T08:14:20.0872514Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-M2890")
+    DateTime=2010-07-22T08:14:20.1185020Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2893")
+    DateTime=2010-07-22T08:14:20.1966285Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2895")
+    DateTime=2010-07-22T08:14:20.2435044Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-M2896")
+    DateTime=2010-07-22T08:14:20.3372562Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2738")
+    DateTime=2010-07-22T08:14:20.3997574Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2739")
+    DateTime=2010-07-22T08:14:20.4622586Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2727")
+    DateTime=2010-07-22T08:14:20.4935092Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2784")
+    DateTime=2010-07-22T08:14:20.5403851Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2743")
+    DateTime=2010-07-22T08:14:20.6028863Z
+w3wp.exe Warning: 0 : TKPEUROPE\conpie : True
+    DateTime=2010-07-22T08:14:20.6028863Z

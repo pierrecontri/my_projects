@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Web Developer Express 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSiteTest1", "..\..\WebSites\WebSiteTest1\", "{9D3B6698-FF85-489F-A368-BE208BE13C55}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/WebSiteTest1"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebSiteTest1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteTest1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSiteTest1"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebSiteTest1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSiteTest1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49317"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3B6698-FF85-489F-A368-BE208BE13C55}.Debug|.NET.ActiveCfg = Debug|.NET
+		{9D3B6698-FF85-489F-A368-BE208BE13C55}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#"  AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<link rel="stylesheet" Type="text/css" href="StyleSheet.css">
+<head runat="server">
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+	<div id="tete"></div>
+	<h1>ThyssenKrupp Presta Steering - Factory managment about ZPointCS</h1>
+    <br />
+    <br />
+    <form id="form1" runat="server">
+    
+    <table border="1"  align="center" width="100%">
+	<tr><div class="menu">
+		<th width="20%"><asp:LinkButton ID="LinkButtonMyComputer" runat="server" 
+            PostBackUrl="~/Default.aspx"><h6><u>My Computer</u></h6></asp:LinkButton>&nbsp;&nbsp;&nbsp;</TH>
+		<th  width="20%"><asp:LinkButton ID="LinkButtonFactoryView" runat="server" 
+            PostBackUrl="~/FactoryView.aspx"><h6><u>Factory Control View</u></h6></asp:LinkButton>&nbsp;&nbsp;&nbsp;</TH>
+		<th width="20%"><asp:LinkButton ID="LinkButtonFactoryStateView" runat="server" 
+            PostBackUrl="~/FactoryStateView.aspx"><h6><u>Factory State View</u></h6></asp:LinkButton>&nbsp;&nbsp;&nbsp;</TH>
+        <th width="20%"><asp:LinkButton ID="LinkButtonMail" runat="server" 
+            PostBackUrl="~/Mail.aspx"><h6><u>Mail Send</u></h6></asp:LinkButton>&nbsp;&nbsp;&nbsp;</TH>
+		<th width="20%"> <asp:LinkButton ID="ButtonExit" runat="server" 
+        onclientclick="javascript:window.close();" Text="<h6><u>Exit</u></h6>" /></TH>
+	</TR>
+	</Table>
+    </div>  
+    <br />  
+    <div class =" bordure">
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server" />
+    </div>
+    </form>
+</body>
+</html>

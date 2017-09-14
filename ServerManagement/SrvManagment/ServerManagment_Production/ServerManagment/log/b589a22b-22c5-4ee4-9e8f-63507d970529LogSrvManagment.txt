@@ -1,0 +1,107 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1182.europe.prestagroup.com")
+    DateTime=2010-10-01T08:39:47.2163611Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:39:47.2163611Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:39:49.0601465Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:04.4041911Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:04.4979429Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:04.6541959Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:04.6698212Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:07.0292415Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:07.0448668Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:08.5605209Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:08.5761462Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:09.9824232Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:09.9980485Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:11.7793327Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:11.7793327Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot start service AMS ZPointCS server on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Start(String[] args)
+   at System.ServiceProcess.ServiceController.Start()
+   at ServerManagment.StartOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 200
+    DateTime=2010-10-01T08:40:11.7949580Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:16.7638034Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:16.8263046Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot start service AMS ZPointCS server on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Start(String[] args)
+   at System.ServiceProcess.ServiceController.Start()
+   at ServerManagment.StartOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 200
+    DateTime=2010-10-01T08:40:16.8263046Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:17.5606937Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:17.5763190Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot start service AMS ZPointCS server on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Start(String[] args)
+   at System.ServiceProcess.ServiceController.Start()
+   at ServerManagment.StartOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 200
+    DateTime=2010-10-01T08:40:17.5919443Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:19.1544743Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:19.1700996Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:26.9983749Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:42.9986821Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:44.6393386Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:44.6705892Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot start service AMS ZPointCS server on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Start(String[] args)
+   at System.ServiceProcess.ServiceController.Start()
+   at ServerManagment.StartOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 200
+    DateTime=2010-10-01T08:40:44.6705892Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:45.7487349Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:45.7643602Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot start service AMS ZPointCS server on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Start(String[] args)
+   at System.ServiceProcess.ServiceController.Start()
+   at ServerManagment.StartOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 200
+    DateTime=2010-10-01T08:40:45.7643602Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-10-01T08:40:46.6862529Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop AMS ZPointCS server service on computer 'b2m1182.europe.prestagroup.com'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-10-01T08:40:46.7175035Z

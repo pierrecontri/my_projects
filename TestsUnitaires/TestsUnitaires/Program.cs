@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace TestsUnitaires
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //TestDate.TesterDate();
+            //ExpReg.TesterExpression();
+            //SerializationMemory.Test();
+            //Console.WriteLine(MailError.SendMailError("smtp.orange.fr", "pierrotlefou@ttoto.com", "pierre.contri@free.fr", "Test mail by asynchronous", "Salut, ceci est un test d'envoie de mail asynchrone"));
+            //ThreadsLimits.Tests();
+            //ThreadParamTest.Test();
+            //PerformancesTests.Test();
+            //Securisation.TestCryptSynchrone();
+            //Securisation.TestCryptAsynchrone();
+            //ReflectionTest.Test();
+            //Securisation.TestCryptSynchrone();
+            //Console.WriteLine(Resource1.String1 + " " + Settings1.Default.ConnSqlExpress);
+
+
+            /* using a PHP web service */
+            string catalogeWsdl = "http://localhost/webservices/exemplePHP/HelloYou.wsdl";
+            SWHelloWordPHP.HelloYouPortClient client = new TestsUnitaires.SWHelloWordPHP.HelloYouPortClient();
+            Console.WriteLine(client.getHello("Pierre", "Contri"));
+
+            Console.ReadKey();
+        }
+    }
+}

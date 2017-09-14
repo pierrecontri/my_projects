@@ -1,0 +1,109 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("b11253n.europe.prestagroup.com")
+    DateTime=2010-09-07T22:33:34.6421790Z
+w3wp.exe Warning: 0 : TKPEUROPE\solinas : True
+    DateTime=2010-09-07T22:33:34.6421790Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1005")
+    DateTime=2010-09-07T22:33:34.7828067Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1030")
+    DateTime=2010-09-07T22:33:34.8140573Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1086")
+    DateTime=2010-09-07T22:33:34.8453079Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1092")
+    DateTime=2010-09-07T22:33:34.8765585Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1119")
+    DateTime=2010-09-07T22:33:34.9234344Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b1m1153")
+    DateTime=2010-09-07T22:33:34.9546850Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b1m1154")
+    DateTime=2010-09-07T22:33:35.0015609Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1148")
+    DateTime=2010-09-07T22:33:35.0484368Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1182")
+    DateTime=2010-09-07T22:33:35.0953127Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2673")
+    DateTime=2010-09-07T22:33:35.1109380Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2674")
+    DateTime=2010-09-07T22:33:35.1421886Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m2676")
+    DateTime=2010-09-07T22:33:35.1734392Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2753")
+    DateTime=2010-09-07T22:33:35.2046898Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2755")
+    DateTime=2010-09-07T22:33:35.2515657Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2756")
+    DateTime=2010-09-07T22:33:35.2984416Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2757")
+    DateTime=2010-09-07T22:33:35.3296922Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2895")
+    DateTime=2010-09-07T22:33:35.3609428Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2765")
+    DateTime=2010-09-07T22:33:35.4546946Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2766")
+    DateTime=2010-09-07T22:33:35.5015705Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2767")
+    DateTime=2010-09-07T22:33:35.5328211Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2770")
+    DateTime=2010-09-07T22:33:35.5640717Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2771")
+    DateTime=2010-09-07T22:33:35.5953223Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2781")
+    DateTime=2010-09-07T22:33:35.6265729Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2782")
+    DateTime=2010-09-07T22:33:35.7046994Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2783")
+    DateTime=2010-09-07T22:33:35.7203247Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2787")
+    DateTime=2010-09-07T22:33:35.7515753Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2788")
+    DateTime=2010-09-07T22:33:35.7672006Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2790")
+    DateTime=2010-09-07T22:33:35.7984512Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2791")
+    DateTime=2010-09-07T22:33:35.8297018Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2791")
+    DateTime=2010-09-07T22:33:35.8609524Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2790")
+    DateTime=2010-09-07T22:33:35.8922030Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2799")
+    DateTime=2010-09-07T22:33:35.9234536Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-M2890")
+    DateTime=2010-09-07T22:33:35.9547042Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m2890-01")
+    DateTime=2010-09-07T22:33:36.0015801Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2890-2")
+    DateTime=2010-09-07T22:33:36.0172054Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2893")
+    DateTime=2010-09-07T22:33:36.0640813Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2895")
+    DateTime=2010-09-07T22:33:36.0953319Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-M2896")
+    DateTime=2010-09-07T22:33:36.1578331Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2738")
+    DateTime=2010-09-07T22:33:36.1734584Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2739")
+    DateTime=2010-09-07T22:33:36.2047090Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2727")
+    DateTime=2010-09-07T22:33:36.2359596Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2784")
+    DateTime=2010-09-07T22:33:36.2515849Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2743")
+    DateTime=2010-09-07T22:33:36.2672102Z
+w3wp.exe Warning: 0 : TKPEUROPE\solinas : True
+    DateTime=2010-09-07T22:33:36.2828355Z
+w3wp.exe Warning: 0 : TKPEUROPE\solinas : True
+    DateTime=2010-09-07T22:33:49.5955911Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop OracleServiceORC1 service on computer 'pff-sf-m2753'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-09-07T22:33:49.6268417Z
+w3wp.exe Warning: 0 : TKPEUROPE\solinas : True
+    DateTime=2010-09-07T22:34:00.3457975Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot stop OracleServiceORC1 service on computer 'pff-sf-m2753'.
+   at System.ServiceProcess.ServiceController.Stop()
+   at ServerManagment.StopOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 224
+    DateTime=2010-09-07T22:34:00.3457975Z
+w3wp.exe Error: 0 : System.ServiceProcess; Cannot start service OracleServiceORC1 on computer 'pff-sf-m2753'.
+   at System.ServiceProcess.ServiceController.Start(String[] args)
+   at System.ServiceProcess.ServiceController.Start()
+   at ServerManagment.StartOneService(String ServiceName) in c:\Inetpub\ServerManagment\App_code\ServerManagment.cs:line 200
+    DateTime=2010-09-07T22:34:00.3614228Z

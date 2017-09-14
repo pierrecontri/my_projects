@@ -1,0 +1,736 @@
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : Test warn
+WebDev.WebServer.EXE Error: 0 : Test error
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : %s;%s;%s
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartAllServicesSelected() dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 95
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartAllServicesSelected() dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 95
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartAllServicesSelected() dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 95
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartAllServicesSelected() dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 106
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_meeazyis; Le cast spécifié n'est pas valide.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 162
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_meeazyis; Le cast spécifié n'est pas valide.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 162
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_meeazyis; Le cast spécifié n'est pas valide.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 162
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_meeazyis; Le cast spécifié n'est pas valide.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 162
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_meeazyis; Le cast spécifié n'est pas valide.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 162
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_dr_oyhw_; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 170
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_z-un6f-y; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 170
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_z-un6f-y; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 170
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_z-un6f-y; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 170
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_7zkgqy_f; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 165
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_7zkgqy_f; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 165
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_40sufdls; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 165
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_uwzhv8a8; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 164
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_sbrbnizk; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 165
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_-bjzgang; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 165
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_hsmufc7f; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 165
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_f0tehfxi; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 166
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_kviqkgmg; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 166
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : mscorlib; Impossible de convertir l'objet de type 'System.String' en type 'System.Web.UI.WebControls.GridViewCommandEventArgs'.
+   à System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   à System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   à System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   à System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   à System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 166
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : App_Web_5dgeuauq; La référence d'objet n'est pas définie à une instance d'un objet.
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 166
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Warning: 0 : mscorlib; Impossible de convertir l'objet de type 'System.String' en type 'System.EventArgs'.
+   à System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   à System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   à System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   à System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   à System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   à _Default.GridView1_RowCommand(Object sender, GridViewCommandEventArgs e) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\Default.aspx.cs:ligne 165
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartAllServicesSelected() dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 106
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("MACAQUE")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur 'MACAQUE'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 152
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("Macaque")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("Macaque")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur '127.0.0.1'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 160
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur '127.0.0.1'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 160
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur '127.0.0.1'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 160
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : Test info
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur '127.0.0.1'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartAllServicesSelected() dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 114
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur '127.0.0.1'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 160
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur '127.0.0.1'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 160
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Information: 0 : ServiceController.GetServices("127.0.0.1")
+WebDev.WebServer.EXE Error: 0 : System.ServiceProcess; Impossible de démarrer le service Alerter sur l'ordinateur '127.0.0.1'.
+   à System.ServiceProcess.ServiceController.Start(String[] args)
+   à System.ServiceProcess.ServiceController.Start()
+   à ServerManagment.StartOneService(String ServiceName) dans c:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\WebSites\ServerManagment\App_Code\ServerManagment.cs:ligne 160
+WebDev.WebServer20.exe Information: 0 : ServiceController.GetServices("::1")
+WebDev.WebServer20.exe Information: 0 : ServiceController.GetServices("::1")

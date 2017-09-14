@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <%--    <table class="MainTitle">
+        <tr>
+            <td class="ImageTitle"><img id="LogoTkt" alt="LogoTkt" src="style/images/logotkt__93884B05_.png" /></td>
+            <td class="PageTitle"></td>
+        </tr>
+    </table>--%>
+    <div class="MainTitle">
+        Factory managment for ZPointCS</div>
+    <table class="menu">
+        <tr class="menu">
+            <td class="menu">
+                <asp:LinkButton ID="LinkButtonMyComputer" runat="server" CssClass="menu" PostBackUrl="~/Default.aspx"
+                    Font-Underline="False">My Computer</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+            </td>
+            <td class="menu">
+                <asp:LinkButton ID="LinkButtonFactoryView" runat="server" CssClass="menu" PostBackUrl="~/FactoryView.aspx"
+                    Font-Underline="False">Factory Control View</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+            </td>
+            <td class="menu">
+                <asp:LinkButton ID="LinkButtonFactoryStateView" runat="server" CssClass="menu" PostBackUrl="~/FactoryStateView.aspx"
+                    Font-Underline="False">Factory State View</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+            </td>
+            <td class="menu">
+                <asp:LinkButton ID="ButtonExit" runat="server" CssClass="menu" OnClientClick="javascript:window.close();"
+                    Text="Exit" Font-Underline="False" />
+            </td>
+        </tr>
+    </table>
+    <br />
+    <div class="PageContent">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+    </div>
+    </form>
+</body>
+</html>

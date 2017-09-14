@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WebSuiviTrace">
+</Property><Property Name="Fichier solution" Value="C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSuiviTrace\WebSuiviTrace.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSuiviTrace\WebSuiviTrace.suo">
+</Property><Property Name="Date" Value="lundi 26 octobre 2009">
+</Property><Property Name="Time" Value="06:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WebSuiviTrace.sln" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSuiviTrace\Backup\WebSuiviTrace.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WebSuiviTrace.suo" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSuiviTrace\Backup\WebSuiviTrace.suo">
+</Event><Event ErrorLevel="1" Project="" Source="..\..\WebSites\WebSuiviTrace\" Description="Avertissement : le fichier projet est en cours de sauvegarde dans un chemin d'accès relatif qui diffère du chemin d'accès relatif d'origine de la solution. La différence de hiérarchie de dossiers risque de créer des problèmes d'ouverture ou de génération de l">
+</Event><Event ErrorLevel="0" Project="" Source="WebSuiviTrace.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="WebSuiviTrace.sln" Description="Converted">
+</Event></UpgradeLog>

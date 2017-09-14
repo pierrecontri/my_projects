@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Web Developer Express 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebServicesTests", "..\..\WebSites\WebServicesTests\", "{EDCFE47B-B104-4574-97E0-4B72733C0D39}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/WebServicesTests"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebServicesTests\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesTests\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebServicesTests"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebServicesTests\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesTests\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50186"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCFE47B-B104-4574-97E0-4B72733C0D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCFE47B-B104-4574-97E0-4B72733C0D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

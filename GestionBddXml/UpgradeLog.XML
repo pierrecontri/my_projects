@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GestionBddXml">
+</Property><Property Name="Fichier solution" Value="C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\GestionBddXml.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\GestionBddXml.suo">
+</Property><Property Name="Date" Value="mardi 1 novembre 2011">
+</Property><Property Name="Time" Value="09:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GestionBddXml.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GestionBddXml.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml.suo">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\GestionBddXml.csproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\GestionBddXml.csproj">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Form1.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Form1.Designer.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Program.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Program.cs">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Properties\AssemblyInfo.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Properties\Resources.Designer.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Properties\Settings.Designer.cs" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\app.config" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\app.config">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Properties\Settings.settings" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\dataBasePersonnel.xml" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\dataBasePersonnel.xml">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Form1.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\Properties\Resources.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\Pierre\Documents\Visual Studio 2008\Projects\GestionBddXml\Backup\GestionBddXml\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\GestionBddXml.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="GestionBddXml" Source="GestionBddXml\GestionBddXml.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GestionBddXml.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="GestionBddXml.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GestionBddXml" Source="GestionBddXml\GestionBddXml.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

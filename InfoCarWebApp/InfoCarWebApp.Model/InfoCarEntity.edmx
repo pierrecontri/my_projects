@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl" Namespace="InfoCarEntity.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005">
+        <EntityContainer Name="InfoCarEntityTargetContainer" >
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="InfoCarEntity" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="InfoCarEntityContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CarSet" EntityType="InfoCarEntity.Car" />
+          <EntitySet Name="ConstructorSet" EntityType="InfoCarEntity.Constructor" />
+          <AssociationSet Name="ConstructorCar" Association="InfoCarEntity.ConstructorCar">
+            <End Role="Constructor" EntitySet="ConstructorSet" />
+            <End Role="Car" EntitySet="CarSet" />
+          </AssociationSet>
+          <EntitySet Name="WearPartSet" EntityType="InfoCarEntity.WearPart" />
+          <EntitySet Name="FuelSet" EntityType="InfoCarEntity.Fuel" />
+          <EntitySet Name="DriverSet" EntityType="InfoCarEntity.Driver" />
+          <EntitySet Name="DriverTypeSet" EntityType="InfoCarEntity.DriverType" />
+        </EntityContainer>
+        <EntityType Name="Car">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Constructor" Relationship="InfoCarEntity.ConstructorCar" FromRole="Car" ToRole="Constructor" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <Property Name="Engine" Type="InfoCarEntity.EngineType" Nullable="false" />
+          <Property Name="Price" Type="Int16" Nullable="false" />
+          <Property Name="Consumption" Type="Double" Nullable="false" />
+          <Property Name="TankSize" Type="String" Nullable="false" />
+          <Property Name="Driver" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Constructor">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Car" Relationship="InfoCarEntity.ConstructorCar" FromRole="Constructor" ToRole="Car" />
+          <Property Name="Name" Type="String" Nullable="false" />
+        </EntityType>
+        <Association Name="ConstructorCar">
+          <End Type="InfoCarEntity.Constructor" Role="Constructor" Multiplicity="1" />
+          <End Type="InfoCarEntity.Car" Role="Car" Multiplicity="*" />
+        </Association>
+        <EnumType Name="EngineType" IsFlags="true">
+          <Member Name="Essence" Value="0" />
+          <Member Name="Diesel" Value="1" />
+          <Member Name="GPL" Value="2" />
+        </EnumType>
+        <EntityType Name="WearPart">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <Property Name="Periodicity" Type="Double" Nullable="false" />
+          <Property Name="Price" Type="Double" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Fuel">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="Name" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <Property Name="Price" Type="Double" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Driver">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <Property Name="DriverType" Type="String" Nullable="false" />
+          <Property Name="KmPerYear" Type="String" Nullable="false" />
+          <Property Name="MaxKilometers" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="DriverType">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" />
+          <Property Name="DrivingCoefficient" Type="Double" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="InfoCarEntity" />
+        <Alias Key="Target" Value="InfoCarEntity.Store" />
+        <EntityContainerMapping CdmEntityContainer="InfoCarEntityContainer" StorageEntityContainer="InfoCarEntityTargetContainer">
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

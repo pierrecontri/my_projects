@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CarDataSet" targetNamespace="http://tempuri.org/CarDataSet.xsd" xmlns:mstns="http://tempuri.org/CarDataSet.xsd" xmlns="http://tempuri.org/CarDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CarDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="CarDataSet" msprop:Generator_UserDSName="CarDataSet" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Car" msprop:Generator_UserTableName="Car" msprop:Generator_RowDeletedName="CarRowDeleted" msprop:Generator_TableClassName="CarDataTable" msprop:Generator_RowChangedName="CarRowChanged" msprop:Generator_RowClassName="CarRow" msprop:Generator_RowChangingName="CarRowChanging" msprop:Generator_RowEvArgName="CarRowChangeEvent" msprop:Generator_RowEvHandlerName="CarRowChangeEventHandler" msprop:Generator_TablePropName="Car" msprop:Generator_TableVarName="tableCar" msprop:Generator_RowDeletingName="CarRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Wearparts" msprop:Generator_UserColumnName="Wearparts" msprop:Generator_ColumnPropNameInRow="Wearparts" msprop:Generator_ColumnVarNameInTable="columnWearparts" msprop:Generator_ColumnPropNameInTable="WearpartsColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="consumption" msprop:Generator_UserColumnName="consumption" msprop:Generator_ColumnPropNameInRow="consumption" msprop:Generator_ColumnVarNameInTable="columnconsumption" msprop:Generator_ColumnPropNameInTable="consumptionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="driver" msprop:Generator_UserColumnName="driver" msprop:Generator_ColumnPropNameInRow="driver" msprop:Generator_ColumnVarNameInTable="columndriver" msprop:Generator_ColumnPropNameInTable="driverColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="fuel" msprop:Generator_UserColumnName="fuel" msprop:Generator_ColumnPropNameInRow="fuel" msprop:Generator_ColumnVarNameInTable="columnfuel" msprop:Generator_ColumnPropNameInTable="fuelColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="insuranceprice" msprop:Generator_UserColumnName="insuranceprice" msprop:Generator_ColumnPropNameInRow="insuranceprice" msprop:Generator_ColumnVarNameInTable="columninsuranceprice" msprop:Generator_ColumnPropNameInTable="insurancepriceColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="name" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInTable="nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="price" msprop:Generator_UserColumnName="price" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInTable="priceColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="tanksize" msprop:Generator_UserColumnName="tanksize" msprop:Generator_ColumnPropNameInRow="tanksize" msprop:Generator_ColumnVarNameInTable="columntanksize" msprop:Generator_ColumnPropNameInTable="tanksizeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Fuel" msprop:Generator_UserTableName="Fuel" msprop:Generator_RowDeletedName="FuelRowDeleted" msprop:Generator_TableClassName="FuelDataTable" msprop:Generator_RowChangedName="FuelRowChanged" msprop:Generator_RowClassName="FuelRow" msprop:Generator_RowChangingName="FuelRowChanging" msprop:Generator_RowEvArgName="FuelRowChangeEvent" msprop:Generator_RowEvHandlerName="FuelRowChangeEventHandler" msprop:Generator_TablePropName="Fuel" msprop:Generator_TableVarName="tableFuel" msprop:Generator_RowDeletingName="FuelRowDeleting" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="name" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInTable="nameColumn" type="xs:string" minOccurs="0" />
+                    <xs:element name="price" msprop:Generator_UserColumnName="price" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInTable="priceColumn" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Driver" msprop:Generator_UserTableName="Driver" msprop:Generator_RowDeletedName="DriverRowDeleted" msprop:Generator_TableClassName="DriverDataTable" msprop:Generator_RowChangedName="DriverRowChanged" msprop:Generator_RowClassName="DriverRow" msprop:Generator_RowChangingName="DriverRowChanging" msprop:Generator_RowEvArgName="DriverRowChangeEvent" msprop:Generator_RowEvHandlerName="DriverRowChangeEventHandler" msprop:Generator_TablePropName="Driver" msprop:Generator_TableVarName="tableDriver" msprop:Generator_RowDeletingName="DriverRowDeleting" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="name" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInTable="nameColumn" type="xs:string" minOccurs="0" />
+                    <xs:element name="maxkilometers" msprop:Generator_UserColumnName="maxkilometers" msprop:Generator_ColumnPropNameInRow="maxkilometers" msprop:Generator_ColumnVarNameInTable="columnmaxkilometers" msprop:Generator_ColumnPropNameInTable="maxkilometersColumn" type="xs:string" minOccurs="0" />
+                    <xs:element name="kmperyear" msprop:Generator_UserColumnName="kmperyear" msprop:Generator_ColumnPropNameInRow="kmperyear" msprop:Generator_ColumnVarNameInTable="columnkmperyear" msprop:Generator_ColumnPropNameInTable="kmperyearColumn" type="xs:string" minOccurs="0" />
+                    <xs:element name="drivertype" msprop:Generator_UserColumnName="drivertype" msprop:Generator_ColumnPropNameInRow="drivertype" msprop:Generator_ColumnVarNameInTable="columndrivertype" msprop:Generator_ColumnPropNameInTable="drivertypeColumn" type="xs:string" minOccurs="0" />
+                    <xs:element name="Drivertype" msprop:Generator_UserTableName="Drivertype" msprop:Generator_RowDeletedName="DrivertypeRowDeleted" msprop:Generator_TableClassName="DrivertypeDataTable" msprop:Generator_RowChangedName="DrivertypeRowChanged" msprop:Generator_RowClassName="DrivertypeRow" msprop:Generator_RowChangingName="DrivertypeRowChanging" msprop:Generator_RowEvArgName="DrivertypeRowChangeEvent" msprop:Generator_RowEvHandlerName="DrivertypeRowChangeEventHandler" msprop:Generator_TablePropName="Drivertype" msprop:Generator_TableVarName="tableDrivertype" msprop:Generator_RowDeletingName="DrivertypeRowDeleting" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="name" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInTable="nameColumn" type="xs:string" minOccurs="0" />
+                          <xs:element name="drivingcoefficient" msprop:Generator_UserColumnName="drivingcoefficient" msprop:Generator_ColumnPropNameInRow="drivingcoefficient" msprop:Generator_ColumnVarNameInTable="columndrivingcoefficient" msprop:Generator_ColumnPropNameInTable="drivingcoefficientColumn" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Wearpart" msprop:Generator_UserTableName="Wearpart" msprop:Generator_RowDeletedName="WearpartRowDeleted" msprop:Generator_TableClassName="WearpartDataTable" msprop:Generator_RowChangedName="WearpartRowChanged" msprop:Generator_RowClassName="WearpartRow" msprop:Generator_RowChangingName="WearpartRowChanging" msprop:Generator_RowEvArgName="WearpartRowChangeEvent" msprop:Generator_RowEvHandlerName="WearpartRowChangeEventHandler" msprop:Generator_TablePropName="Wearpart" msprop:Generator_TableVarName="tableWearpart" msprop:Generator_RowDeletingName="WearpartRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInTable="nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="periodicity" msprop:Generator_UserColumnName="periodicity" msprop:Generator_ColumnPropNameInRow="periodicity" msprop:Generator_ColumnVarNameInTable="columnperiodicity" msprop:Generator_ColumnPropNameInTable="periodicityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="price" msprop:Generator_UserColumnName="price" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInTable="priceColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Driver_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//mstns:Driver" />
+      <xs:field xpath="mstns:drivertype" />
+    </xs:unique>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:Car" />
+      <xs:field xpath="mstns:fuel" />
+    </xs:unique>
+    <xs:unique name="Constraint2">
+      <xs:selector xpath=".//mstns:Car" />
+      <xs:field xpath="mstns:driver" />
+    </xs:unique>
+    <xs:unique name="Constraint3">
+      <xs:selector xpath=".//mstns:Car" />
+      <xs:field xpath="mstns:Wearparts" />
+    </xs:unique>
+    <xs:keyref name="FK_Car_Wearpart" refer="Constraint3" msdata:ConstraintOnly="true" msdata:DeleteRule="None">
+      <xs:selector xpath=".//mstns:Wearpart" />
+      <xs:field xpath="mstns:name" />
+    </xs:keyref>
+    <xs:keyref name="Car_Driver" refer="Constraint2" msdata:IsNested="true" msprop:rel_Generator_UserRelationName="Car_Driver" msprop:rel_Generator_RelationVarName="relationCar_Driver" msprop:rel_Generator_UserChildTable="Driver" msprop:rel_Generator_UserParentTable="Car" msprop:rel_Generator_ParentPropName="CarRow" msprop:rel_Generator_ChildPropName="GetDriverRows" msdata:DeleteRule="None">
+      <xs:selector xpath=".//mstns:Driver" />
+      <xs:field xpath="mstns:name" />
+    </xs:keyref>
+    <xs:keyref name="Driver_Drivertype" refer="Driver_Constraint1" msdata:IsNested="true" msprop:rel_Generator_UserRelationName="Driver_Drivertype" msprop:rel_Generator_RelationVarName="relationDriver_Drivertype" msprop:rel_Generator_UserChildTable="Drivertype" msprop:rel_Generator_UserParentTable="Driver" msprop:rel_Generator_ParentPropName="DriverRow" msprop:rel_Generator_ChildPropName="GetDrivertypeRows" msdata:DeleteRule="None">
+      <xs:selector xpath=".//mstns:Drivertype" />
+      <xs:field xpath="mstns:name" />
+    </xs:keyref>
+    <xs:keyref name="FK_Car_Fuel" refer="Constraint1" msdata:IsNested="true" msprop:rel_Generator_UserRelationName="FK_Car_Fuel" msprop:rel_Generator_RelationVarName="relationFK_Car_Fuel" msprop:rel_Generator_UserChildTable="Fuel" msprop:rel_Generator_UserParentTable="Car" msprop:rel_Generator_ParentPropName="CarRow" msprop:rel_Generator_ChildPropName="GetFuelRows">
+      <xs:selector xpath=".//mstns:Fuel" />
+      <xs:field xpath="mstns:name" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

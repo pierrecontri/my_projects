@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:typens="urn:HelloYou" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/wsdl/" name="HelloYou" targetNamespace="urn:HelloYou" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:HelloYou" />
+  </wsdl:types>
+  <wsdl:message name="getHelloRequest">
+    <wsdl:part name="prenom" type="xsd:string" />
+    <wsdl:part name="nom" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getHelloResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="HelloYouPort">
+    <wsdl:operation name="getHello">
+      <wsdl:input message="typens:getHelloRequest" />
+      <wsdl:output message="typens:getHelloResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="HelloYouBinding" type="typens:HelloYouPort">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="getHello">
+      <soap:operation soapAction="HelloYouAction" />
+      <wsdl:input name="getHelloRequest">
+        <soap:body use="encoded" namespace="urn:HelloYou" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getHelloResponse">
+        <soap:body use="encoded" namespace="urn:HelloYou" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HelloYouService">
+    <documentation>Retourne une phrase simple </documentation>
+    <wsdl:port name="HelloYouPort" binding="typens:HelloYouBinding">
+      <soap:address location="http://http://localhost/webservices/exemplePHP/server.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

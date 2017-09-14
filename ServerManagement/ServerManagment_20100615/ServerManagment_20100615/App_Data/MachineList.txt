@@ -1,0 +1,8 @@
+﻿; Liste des ordianteurs de l'usine a controler
+
+
+B1ZPstage
+pff-sf-m2768.europe.prestagroup.com
+pff-sf-m2799.europe.prestagroup.com
+pff-sf-m2890.europe.prestagroup.com
+pff-sf-m2783.europe.prestagroup.com

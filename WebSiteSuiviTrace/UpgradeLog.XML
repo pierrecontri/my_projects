@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WebSiteSuiviTrace">
+</Property><Property Name="Fichier solution" Value="C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSiteSuiviTrace\WebSiteSuiviTrace.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSiteSuiviTrace\WebSiteSuiviTrace.suo">
+</Property><Property Name="Date" Value="dimanche 25 octobre 2009">
+</Property><Property Name="Time" Value="10:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WebSiteSuiviTrace.sln" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSiteSuiviTrace\Backup\WebSiteSuiviTrace.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WebSiteSuiviTrace.suo" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Pierre\Mes documents\Visual Studio 2008\Projects\WebSiteSuiviTrace\Backup\WebSiteSuiviTrace.suo">
+</Event><Event ErrorLevel="1" Project="" Source="..\..\WebSites\WebSiteSuiviTrace\" Description="Avertissement : le fichier projet est en cours de sauvegarde dans un chemin d'accès relatif qui diffère du chemin d'accès relatif d'origine de la solution. La différence de hiérarchie de dossiers risque de créer des problèmes d'ouverture ou de génération de l">
+</Event><Event ErrorLevel="0" Project="" Source="WebSiteSuiviTrace.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="WebSiteSuiviTrace.sln" Description="Converted">
+</Event></UpgradeLog>

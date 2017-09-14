@@ -1,0 +1,84 @@
+﻿/*
+
+Partie balises
+
+*/
+H6 {  color: white;
+    font-size:12pt;
+     display: inline ;
+    } 
+
+h1
+{
+    font-family:Serif; 
+    color : white;
+    font-size : 25pts;
+    display : inline;
+    text-align:center;
+    font-weight: bold;
+    border-bottom : solid 2px white; 
+ 
+
+
+} 
+
+body
+{
+
+    background-color: #2d5a93;
+}    
+   
+
+/*
+
+Partie class
+
+*/
+.bordure
+{
+    border : solid 1px white;
+    padding: 0.7em; 
+}
+
+.separe
+{
+    border : solid 5 px white
+}
+
+.labelMachine
+{
+    color: white;
+    font-size:18pt;
+    border-bottom :solid 3px white ;
+    border-left :solid 3px white;
+    padding : 0.2em;
+   
+}
+
+.divMenu
+{
+    font-size : 18pt;
+    text-align:center;
+}
+
+.FormMail
+{
+    text-align : center;
+}
+
+/*
+
+Partie id
+
+*/
+
+#tete
+{
+   
+    background-image:url('thyssenkrupp_logo.jpg');
+    background-repeat: no-repeat;
+    font-size:30pt;
+    width:100%;
+    height:278px;
+}
+

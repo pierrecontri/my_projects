@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Web Developer Express 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServerManagment", "..\ServerManagment\", "{31BA6015-C050-4C21-8C4B-775D4E01DB66}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/ServerManagment"
+		Debug.AspNetCompiler.PhysicalPath = "..\ServerManagment\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ServerManagment\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ServerManagment"
+		Release.AspNetCompiler.PhysicalPath = "..\ServerManagment\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ServerManagment\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1036"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BA6015-C050-4C21-8C4B-775D4E01DB66}.Debug|.NET.ActiveCfg = Debug|.NET
+		{31BA6015-C050-4C21-8C4B-775D4E01DB66}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

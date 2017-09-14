@@ -1,0 +1,48 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2673.europe.prestagroup.com")
+    DateTime=2010-08-03T09:16:45.5903268Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:45.5903268Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:56.0124019Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:56.9030440Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:57.4343042Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:57.8874379Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:58.3405716Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:58.7780800Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:59.1843378Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:59.6218462Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:16:59.9812281Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:00.4343618Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:00.8874955Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:01.8250135Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:02.7625315Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:03.9656796Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:05.1063265Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:08.3720142Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:10.1064225Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:36.4506783Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:36.7006831Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:36.8256855Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:36.9506879Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-08-03T09:17:37.2006927Z

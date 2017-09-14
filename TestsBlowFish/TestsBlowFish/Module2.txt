@@ -1,0 +1,63 @@
+Imports System
+Imports System.Text
+Imports System.IO
+Imports BlowfishNET
+Imports System.Security.Cryptography
+
+Module Module2
+    Public Sub EncryptBlowFish()
+        Dim fs As New FileStream(".\BlowFishKey.key", FileMode.Open, FileAccess.Read)
+        Dim maCle(fs.Length - 1) As Byte
+        fs.Read(maCle, 0, maCle.Length)
+        fs.Close()
+
+        'Dim chaineClaire As String = "tbplc=souscription;prenom=davitggd;nom=brunet;rib1=11111111112223241222233;mail=david.brunet@experian.fr;rib2=11111111112224234222233;rib3=11111111112224234222233"
+        'Dim chaineConvertie As String = Convert.ToBase64String(Encoding.Unicode.GetBytes(chaineClaire))
+        'Dim bytesIn() As Byte = Encoding.Unicode.GetBytes(chaineClaire)
+        'Dim bytesOut(bytesIn.Length - 1) As Byte
+
+        Dim transform As New BlowfishECB(maCle, 0, maCle.Length)
+        ' Recuperer le fichier
+        Dim fsr As New FileStream(".\FichierClair.txt", FileMode.Open, FileAccess.Read)
+        Dim fluxClair(fsr.Length - 1) As Byte
+        fsr.Read(fluxClair, 0, fluxClair.Length)
+        fsr.Close()
+        Dim bytesIn() As Byte = fluxClair
+        Dim bytesOut(bytesIn.Length - 1) As Byte
+        ' Creer le flux de cryptage
+        transform.Encrypt(bytesIn, 0, bytesOut, 0, bytesIn.Length)
+        ' Creer le nouveau fichier crypte
+        Dim fsw As New FileStream(".\FichierCrypt.cryp", FileMode.Create, FileAccess.Write)
+        ' Crypter le fichier
+        fsw.Write(bytesOut, 0, bytesOut.Length)
+        ' Fermer les flux
+        fsw.Close()
+
+        Console.WriteLine(Convert.ToBase64String(bytesOut) + Environment.NewLine)
+    End Sub
+
+    Public Sub DecryptBlowFish()
+        Dim fs As New FileStream(".\BlowFishKey.key", FileMode.Open, FileAccess.Read)
+        Dim maCle(fs.Length - 1) As Byte
+        fs.Read(maCle, 0, maCle.Length)
+        fs.Close()
+
+        Dim transform As New BlowfishECB(maCle, 0, maCle.Length)
+        ' Recuperer le fichier
+        Dim fsr As New FileStream(".\FichierCrypt.cryp", FileMode.Open, FileAccess.Read)
+        Dim bytesIn(fsr.Length - 1) As Byte
+        fsr.Read(bytesIn, 0, bytesIn.Length)
+        fsr.Close()
+        Dim bytesOut(bytesIn.Length - 1) As Byte
+        ' Creer le flux de cryptage
+        transform.Decrypt(bytesIn, 0, bytesOut, 0, bytesIn.Length)
+        ' Affichage chaine decryptee
+        Console.WriteLine(Encoding.Unicode.GetString(bytesOut))
+        ' Creer le nouveau fichier crypte
+        Dim fsw As New FileStream(".\FichierDecrypt.txt", FileMode.Create, FileAccess.Write)
+        ' Crypter le fichier
+        fsw.Write(bytesOut, 0, bytesOut.Length)
+        ' Fermer les flux
+        fsw.Close()
+    End Sub
+End Module

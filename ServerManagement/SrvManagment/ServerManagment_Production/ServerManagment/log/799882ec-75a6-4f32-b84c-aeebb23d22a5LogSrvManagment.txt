@@ -1,0 +1,6 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2767-3.europe.prestagroup.com")
+    DateTime=2010-07-07T08:10:24.4364890Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-07-07T08:10:24.4364890Z
+w3wp.exe Warning: 0 : TKPEUROPE\MIRSYL : True
+    DateTime=2010-07-07T08:10:25.3583817Z

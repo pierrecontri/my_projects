@@ -1,0 +1,3 @@
+﻿; Liste des ordianteurs de l'usine a controler
+
+localhost

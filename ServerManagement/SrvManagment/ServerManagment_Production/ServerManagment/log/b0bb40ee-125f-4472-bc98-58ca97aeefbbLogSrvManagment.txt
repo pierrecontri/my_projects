@@ -1,0 +1,26 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1148.europe.prestagroup.com")
+    DateTime=2010-09-07T16:19:54.6304282Z
+w3wp.exe Warning: 0 : TKPEUROPE\CONPIE : True
+    DateTime=2010-09-07T16:19:54.6460535Z
+w3wp.exe Warning: 0 : TKPEUROPE\CONPIE : True
+    DateTime=2010-09-07T16:19:57.1461015Z
+w3wp.exe Warning: 0 : TKPEUROPE\CONPIE : True
+    DateTime=2010-09-07T16:20:00.3024121Z
+w3wp.exe Warning: 0 : TKPEUROPE\CONPIE : True
+    DateTime=2010-09-07T16:20:26.0060306Z
+w3wp.exe Warning: 0 : TKPEUROPE\CONPIE : True
+    DateTime=2010-09-07T16:20:31.4123844Z
+w3wp.exe Error: 0 : mscorlib;Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at MyComputer.Dl_ZPload_Click(Object sender, EventArgs e) in c:\Inetpub\ServerManagment\MyComputer.aspx.cs:line 134
+    DateTime=2010-09-07T16:20:31.6623892Z
+w3wp.exe Warning: 0 : TKPEUROPE\CONPIE : True
+    DateTime=2010-09-07T16:20:48.7252168Z
+w3wp.exe Error: 0 : mscorlib;Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at MyComputer.Dl_ZPload_Click(Object sender, EventArgs e) in c:\Inetpub\ServerManagment\MyComputer.aspx.cs:line 134
+    DateTime=2010-09-07T16:20:49.1002240Z

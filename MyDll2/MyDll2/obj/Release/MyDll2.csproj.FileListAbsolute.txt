@@ -1,0 +1,3 @@
+D:\tfs_devs\MyProjects\MyDll2\MyDll2\bin\Release\MyDll2.dll
+D:\tfs_devs\MyProjects\MyDll2\MyDll2\obj\Release\MyDll2.csprojResolveAssemblyReference.cache
+D:\tfs_devs\MyProjects\MyDll2\MyDll2\obj\Release\MyDll2.dll

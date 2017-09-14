@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <h1>ThyssenKrupp Presta Steering - Factory managment about ZPointCS</h1>
+    <div><asp:LinkButton ID="LinkButtonMyComputer" runat="server" 
+            PostBackUrl="~/Default.aspx">My Computer</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+        <asp:LinkButton ID="LinkButtonFactoryView" runat="server" 
+            PostBackUrl="~/FactoryView.aspx">Factory Control View</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+        <asp:LinkButton ID="LinkButtonFactoryStateView" runat="server" 
+            PostBackUrl="~/FactoryStateView.aspx">Factory State 
+        View</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+        <asp:LinkButton ID="ButtonExit" runat="server" 
+        onclientclick="javascript:window.close();" Text="Exit" />
+    </div>    
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server" />
+    </form>
+</body>
+</html>

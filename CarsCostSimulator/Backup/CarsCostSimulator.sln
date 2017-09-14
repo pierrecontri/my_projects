@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsCostSimulator", "CarsCostSimulator\CarsCostSimulator.csproj", "{953D27FC-4B08-4BBA-8621-2B796058288E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953D27FC-4B08-4BBA-8621-2B796058288E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953D27FC-4B08-4BBA-8621-2B796058288E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953D27FC-4B08-4BBA-8621-2B796058288E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953D27FC-4B08-4BBA-8621-2B796058288E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

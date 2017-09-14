@@ -1,0 +1,112 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1005.europe.prestagroup.com")
+    DateTime=2010-09-06T14:25:54.1355557Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:25:54.1355557Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:25:56.9949856Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1005")
+    DateTime=2010-09-06T14:25:59.9794179Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1030")
+    DateTime=2010-09-06T14:26:00.0106685Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1086")
+    DateTime=2010-09-06T14:26:00.0419191Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1092")
+    DateTime=2010-09-06T14:26:00.0887950Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m1119")
+    DateTime=2010-09-06T14:26:00.1200456Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b1m1153")
+    DateTime=2010-09-06T14:26:00.1825468Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b1m1154")
+    DateTime=2010-09-06T14:26:00.6044299Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1148")
+    DateTime=2010-09-06T14:26:00.6513058Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m1182")
+    DateTime=2010-09-06T14:26:00.6981817Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2673")
+    DateTime=2010-09-06T14:26:00.7294323Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2674")
+    DateTime=2010-09-06T14:26:00.7450576Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m2676")
+    DateTime=2010-09-06T14:26:00.7763082Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2753")
+    DateTime=2010-09-06T14:26:00.8075588Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2755")
+    DateTime=2010-09-06T14:26:00.8388094Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2756")
+    DateTime=2010-09-06T14:26:00.8856853Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2757")
+    DateTime=2010-09-06T14:26:00.9013106Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2895")
+    DateTime=2010-09-06T14:26:00.9481865Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2765")
+    DateTime=2010-09-06T14:26:00.9638118Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2766")
+    DateTime=2010-09-06T14:26:01.0106877Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2767")
+    DateTime=2010-09-06T14:26:01.0419383Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2770")
+    DateTime=2010-09-06T14:26:01.0731889Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2771")
+    DateTime=2010-09-06T14:26:01.1044395Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2781")
+    DateTime=2010-09-06T14:26:01.1356901Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-wts-M2782")
+    DateTime=2010-09-06T14:26:01.1669407Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2783")
+    DateTime=2010-09-06T14:26:01.1981913Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2787")
+    DateTime=2010-09-06T14:26:01.2138166Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2788")
+    DateTime=2010-09-06T14:26:01.2294419Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2790")
+    DateTime=2010-09-06T14:26:01.2763178Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2791")
+    DateTime=2010-09-06T14:26:01.3075684Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2791")
+    DateTime=2010-09-06T14:26:01.3231937Z
+w3wp.exe Information: 0 : ServiceController.GetServices("Pff-sf-M2790")
+    DateTime=2010-09-06T14:26:01.3544443Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2799")
+    DateTime=2010-09-06T14:26:01.4013202Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-M2890")
+    DateTime=2010-09-06T14:26:01.4169455Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b2m2890-01")
+    DateTime=2010-09-06T14:26:01.4638214Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2890-2")
+    DateTime=2010-09-06T14:26:01.4794467Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2893")
+    DateTime=2010-09-06T14:26:01.5106973Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-m2895")
+    DateTime=2010-09-06T14:26:01.5575732Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-wts-M2896")
+    DateTime=2010-09-06T14:26:01.6200744Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2738")
+    DateTime=2010-09-06T14:26:01.6356997Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2739")
+    DateTime=2010-09-06T14:26:01.6669503Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2727")
+    DateTime=2010-09-06T14:26:01.6825756Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2784")
+    DateTime=2010-09-06T14:26:01.7138262Z
+w3wp.exe Information: 0 : ServiceController.GetServices("pff-sf-m2743")
+    DateTime=2010-09-06T14:26:01.7294515Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:01.7294515Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:04.0888718Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:07.1670559Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:08.2764522Z
+w3wp.exe Information: 0 : ServiceController.GetServices("b11150n.europe.prestagroup.com")
+    DateTime=2010-09-06T14:26:18.5422743Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:18.5422743Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:18.5578996Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:28.0580820Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:44.2927687Z
+w3wp.exe Warning: 0 : TKPEUROPE\NERKOWSKI : False
+    DateTime=2010-09-06T14:26:46.6678143Z

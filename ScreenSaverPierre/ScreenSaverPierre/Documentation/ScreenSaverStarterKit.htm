@@ -1,0 +1,379 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+
+<!--POUR LIRE CE FICHIER D'AIDE, CLIQUEZ AVEC LE BOUTON DROIT SUR LE NOM DU FICHIER DANS 
+    LA FENÊTRE EXPLORATEUR DE SOLUTIONS ET SÉLECTIONNEZ "AFFICHER DANS LE NAVIGATEUR"-->
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Starter Kit &Eacute;cran de veille </title>
+<style>
+<!--
+BODY         { background: url('Images/top-vc.gif') repeat-x; font-family: Verdana; font-size: 67% }
+.maindiv     { background: url('Images/side-vc.gif') repeat-y; padding-left: 55px; padding-top: 5px; position: relative; height: 50px }
+P            { margin-top: 0; margin-bottom: 6px; line-height:130% }
+H1           { margin-top: 20px; margin-bottom: 12px; font-size:190% }
+H2           { color: #585F56; left: -55px; position: relative; margin-top: 21px; margin-bottom: 9px; font-size:170% }
+H3           { margin-top: 21px; margin-bottom: 9px; font-size: 140%;  font-weight: bold}
+H4           { margin-top: 18px; margin-bottom: 9px; font-size: 140%; font-weight: bold}
+OL           { margin-top: 0; margin-bottom: 9px; line-height:130%}
+UL           { margin-top: 0; margin-bottom: 9px; line-height:130%}
+LI           { margin-top: 0; margin-bottom: 6px }
+BLOCKQUOTE   { margin-left: 20px }
+TABLE        { padding: 4px; BACKGROUND: #f8f7ef; BORDER: #DDDCD6 1px solid; BORDER-COLLAPSE: collapse; margin-bottom: 9px; }
+TR           { vertical-align: top} 
+TD           { padding: 4px; font-family: Verdana; font-size: 67%; line-height: 130%} 
+.contents    { line-height: 150% }
+DIV.CodeBlock   { font-family: "Courier New"; font-size: 100%; margin-bottom: 6px; BACKGROUND: #f8f7ef; BORDER: #eeede6 1px solid; padding: 10px; }
+.CodeInline  { font-family: "Courier New" }
+.ProcedureLabel {margin-top: 12px; font-style: italic; font-weight: bold; color: #0D4CC3 } 
+.FileNameCol { padding: 6px; BACKGROUND: #eeede6; width=220px; font-weight: bold}
+-->
+</style>
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="20">
+<div class="maindiv">
+
+<a name="top">
+
+<!-- DÉBUT DU CONTENU PRINCIPAL -->
+
+</a>
+
+<p><a name="top">Starter Kit Microsoft Visual C# </a> </p>
+<h1><a name="top">Starter Kit&nbsp;: &Eacute;cran de veille</a></h1>
+<p class="contents"><font color="#003300"><b><a name="top">Contenu&nbsp;:</a></b></font></p>
+<p class="contents"><font color="#003300"><a href="#Introduction">Introduction</a><br> <a href="#Goals">Objectifs</a><br> <a href="#GettingStarted">Mise en route</a><br> <a href="#HowItWorks">Fonctionnement de l'&eacute;cran de veille</a><br> <a href="#Concepts">Concepts</a><br> <a href="#Extending">Am&eacute;lioration de l'&eacute;cran de veille</a><br> <a href="#ForMoreInformation">Pour plus d'informations</a><br></font></p>
+
+<h2><A href="#top"><IMG src="Images\topjump-vc.gif" border=0></A><a name="Introduction">Introduction</a></h2>
+	<p><img border="0" src="Images\screensaver_thumbnail.png" width="250" height="177" alt="&Eacute;cran de veille" align="right" style="margin-left: 15px; margin-bottom: 10px"
+>
+<p>Ce Starter Kit Visual C# est une application d'&eacute;cran de veille Windows pr&ecirc;te &agrave; ex&eacute;cuter. L'&eacute;cran de veille affiche une s&eacute;quence d'images&nbsp;&mdash; soit des images par d&eacute;faut, soit des images d'un r&eacute;pertoire que vous sp&eacute;cifiez&nbsp;&mdash; recouvertes de texte provenant d'un flux <a href="http://go.microsoft.com/fwlink/?LinkId=47765">RSS</a> (Really Simple Syndication) Internet en direct. Le projet est d&eacute;j&agrave; pr&ecirc;t &agrave; &ecirc;tre compil&eacute; et ex&eacute;cut&eacute;, et vous pouvez le personnaliser par le biais d'une programmation C# suppl&eacute;mentaire minime. Nous avons inclus une liste de suggestions dans la section <a href="#extending">Am&eacute;lioration de l'&eacute;cran de veille</a>. Vous &ecirc;tes &eacute;galement libre d'utiliser le code source comme base pour vos propres projets et de partager votre travail avec d'autres personnes ou de le t&eacute;l&eacute;charger sur Internet.</p>
+
+<br>
+<p>
+
+	<b>Remarque&nbsp;:</b> Cette documentation suppose que vous disposez d'une connaissance de base des concepts de programmation et de l'environnement Visual C#. Pour en apprendre davantage sur ces rubriques, cliquez sur <b>Aide</b> dans le menu principal de la documentation du produit, puis s&eacute;lectionnez <b>Sommaire</b>, <b>Index</b> ou <b>Recherche</b>. Vous pouvez &eacute;galement acc&eacute;der &agrave; l'aide en pla&ccedil;ant le curseur de la souris sur des mots cl&eacute;s du langage ou des &eacute;l&eacute;ments de l'interface utilisateur tels que des fen&ecirc;tres ou des bo&icirc;tes de dialogue, et en appuyant sur <b>F1</b>.
+
+</p>
+
+<h2><A href="#top"><IMG src="Images\topjump-vc.gif" border=0></A><a name="Goals">Objectifs</a></h2>
+	<p class="MsoNormal">
+
+	Lorsque vous aurez lu la documentation de ce Starter Kit, vous saurez comment installer et configurer l'application &Eacute;cran de veille, de quelle mani&egrave;re le code source est organis&eacute;, comment fonctionne l'application et comment la personnaliser &agrave; l'aide de Visual C#. Le Starter Kit illustre les technologies suivantes&nbsp;:
+</p>
+<ul>
+
+	<li>GDI+&nbsp;&mdash;&nbsp;pour mettre en forme et afficher des graphismes et du texte</li>
+	<li>System.XML&nbsp;&mdash;&nbsp;utilisation de XmlTextReader et de XmlNode pour lire les fichiers XML contenant des informations sources RSS</li>
+	<li>La classe WebClient&nbsp;&mdash;&nbsp;pour t&eacute;l&eacute;charger des donn&eacute;es &agrave; partir du Web</li>
+	<li>RSS&nbsp;&mdash;&nbsp;inclusion de flux, de canaux et d'&eacute;l&eacute;ments RSS</li>
+	<li>Le langage Visual C#&nbsp;2.0&nbsp;&mdash;&nbsp;inclusion de g&eacute;n&eacute;riques</li>
+	</ul>
+				
+			
+
+<h2><A href="#top"><IMG src="Images\topjump-vc.gif" border=0></A><a name="GettingStarted">Mise en route</a></h2>
+
+<h3>G&eacute;n&eacute;ration et ex&eacute;cution de l'&eacute;cran de veille</h3>
+
+<p>Une fois votre projet charg&eacute; dans l'environnement Visual C#, vous pouvez compiler et ex&eacute;cuter le programme en une seule op&eacute;ration. </p>
+
+<p class="ProcedureLabel">Pour g&eacute;n&eacute;rer et ex&eacute;cuter l'application d'&eacute;cran de veille</p>
+
+<ul>
+	<li>
+		Appuyez sur F5 pour <b>g&eacute;n&eacute;rer</b> et d&eacute;marrer l'&eacute;cran de veille sous le <b>d&eacute;bogueur</b>.
+	</li>
+</ul>
+
+<p>L'&eacute;cran de veille est lanc&eacute; et il affiche les articles les plus r&eacute;cents provenant du flux RSS. Si vous appuyez sur une touche ou d&eacute;placez la souris, l'&eacute;cran de veille se ferme.</p>
+	
+<h3>Apport d'une modification rapide au code source</h3>
+
+<p>Il est facile de changer le code source pour modifier le fonctionnement du programme. Voici un exemple qui ajoute votre propre cha&icirc;ne de texte &agrave; l'affichage de l'&eacute;cran de veille.</p>
+
+<p class="ProcedureLabel">Pour afficher une ligne de texte suppl&eacute;mentaire&nbsp;:</p>
+
+<ol>
+	<li>Recherchez la fen&ecirc;tre <b>Explorateur de solutions</b>&nbsp;; elle se trouve par d&eacute;faut dans le coin sup&eacute;rieur droit de l'environnement Visual C#. Cliquez avec le bouton droit sur <b>ScreenSaverForm.cs</b> dans la fen&ecirc;tre <b>Explorateur de solutions</b>, puis s&eacute;lectionnez <b>Afficher le code</b> pour ouvrir <b>ScreenSaverForm.cs</b> en mode Code.</li>
+	<li>Faites d&eacute;filer le code source jusqu'&agrave; ce que la m&eacute;thode <b>OnPaint</b> soit visible, ou s&eacute;lectionnez-la dans la liste d&eacute;roulante dans le coin sup&eacute;rieur droit de la fen&ecirc;tre en mode Code.</li>
+	<li><p>Tapez le code suivant &agrave; la fin de la m&eacute;thode&nbsp;:</p>
+	<div class="CodeBlock">e.Graphics.DrawString(<font color="#800000">&quot;&lt;Votre nom&gt;&Eacute;cran de veille&nbsp;C#&quot;</font>, rssView.TitleFont, <font color="#008080">Brushes</font>.Orange, <font color="#0000FF">new</font> <font color="#008080">PointF</font>(0, 0));</div></li>
+	<li><p>Appuyez sur <b>F5</b> pour r&eacute;ex&eacute;cuter l'application.</p>
+	</li>
+</ol>
+
+<p>Un titre est &agrave; pr&eacute;sent affich&eacute; sur l'&eacute;cran de veille.</p>
+
+	<h3>Acc&egrave;s &agrave; la bo&icirc;te de dialogue Options</h3>
+
+	<p>Le Starter Kit &Eacute;cran de veille comprend &eacute;galement une bo&icirc;te de dialogue Options permettant aux utilisateurs de modifier les param&egrave;tres de l'&eacute;cran de veille.  Pour ouvrir la bo&icirc;te de dialogue <b>Options</b> dans Visual Studio, vous devez envoyer un argument de ligne de commande directement &agrave; l'ex&eacute;cutable lors de son ouverture.  Si vous utilisez Windows&nbsp;98, sachez que les donn&eacute;es que vous entrez dans la bo&icirc;te de dialogue <b>Options</b> pourront &ecirc;tre visualis&eacute;es par toutes les personnes qui utilisent votre ordinateur.
+	</p>
+
+
+	<p class="ProcedureLabel">Pour forcer l'apparition de la bo&icirc;te de dialogue Options&nbsp;:</p>
+
+	<ol>
+		<li>
+			Ouvrez l'<b>Explorateur de solutions</b>, puis double-cliquez sur le n&oelig;ud <b>Propri&eacute;t&eacute;s</b> sous le projet ScreenSaver.<br> Des options de configuration de votre projet s'affichent. </li>
+		<li>
+			Cliquez sur l'onglet <b>D&eacute;boguer</b>, puis recherchez la zone de texte <b>Arguments de la ligne de commande</b>.
+		</li>
+		<li>
+			Tapez&nbsp;<b>/c</b> dans la zone de texte.<br> Ceci indique &agrave; Visual C# d'ex&eacute;cuter l'&eacute;cran de veille &agrave; l'aide de l'argument de ligne de commande&nbsp;<b>/c</b>.
+			</li>
+		<li>
+			Appuyez sur <b>F5</b> pour lancer l'application.<br>  La bo&icirc;te de dialogue Options s'affiche.</li>
+		<li>
+			D&eacute;couvrez les diff&eacute;rentes options en s&eacute;lectionnant un autre r&eacute;pertoire d'images d'arri&egrave;re-plan ou en entrant un nouveau flux RSS.
+		</li>
+		<li>
+			Cliquez sur <b>OK</b> pour fermer la bo&icirc;te de dialogue.
+		</li>
+	</ol>
+
+	<p>
+		Apr&egrave;s avoir modifi&eacute; les param&egrave;tres en mode d'options, vous pouvez r&eacute;ex&eacute;cuter l'&eacute;cran de veille en entrant&nbsp;<b>/s</b> comme argument de ligne de commande &agrave; la place de&nbsp;<b>/c</b>.
+	</p>
+
+
+	<h3>Installation de l'&eacute;cran de veille sur votre ordinateur</h3>
+
+<p>Vous trouverez ci-dessous la proc&eacute;dure d'installation de l'application d'&eacute;cran de veille sur votre ordinateur.</p>
+
+<p class="ProcedureLabel">Pour installer l'&eacute;cran de veille&nbsp;:</p>
+
+<ol>
+	<li>
+	<p>Si ce n'est d&eacute;j&agrave; fait, chargez le Starter Kit dans Visual C#.</p></li>
+	<li>
+	<p>Dans le menu Fichier, cliquez sur <b>Enregistrer tout</b>.</p></li>
+	<li>
+	<p>Si vous avez demand&eacute; &agrave; entrer un emplacement pour enregistrer le projet, s&eacute;lectionnez un r&eacute;pertoire ou acceptez l'emplacement par d&eacute;faut. Prenez note de l'emplacement auquel le projet est enregistr&eacute;&nbsp;; par d&eacute;faut, il sera enregistr&eacute; dans un r&eacute;pertoire sous <b>\Mes documents\Visual Studio 2005\Projets</b>.</p></li>
+	<li>
+	<p>Dans le menu <b>G&eacute;n&eacute;rer</b>, cliquez sur <b>G&eacute;n&eacute;rer la solution</b>. <br> Cette op&eacute;ration cr&eacute;e un fichier ex&eacute;cutable pour l'&eacute;cran de veille.</p></li>
+	<li>
+	<p>Ouvrez le r&eacute;pertoire sp&eacute;cifi&eacute; &agrave; l'&eacute;tape&nbsp;3 qui contient le projet enregistr&eacute;.</p></li>
+	<li>
+		<p>
+			Ouvrez le sous-r&eacute;pertoire <b>bin\Debug</b>. C'est &agrave; cet endroit que se situe la version debug de votre fichier ex&eacute;cutable. Son nom par d&eacute;faut est <b>ScreenSaver1.exe</b>, mais il se peut que vous lui ayez attribu&eacute; un autre nom lors de la cr&eacute;ation initiale du projet. Remplacez l'extension &laquo;&nbsp;.exe&nbsp;&raquo; de ce fichier par &laquo;&nbsp;.scr&nbsp;&raquo;.
+			<P>
+				<b>Remarque&nbsp;:</b> Si les extensions de fichier de l'<b>Explorateur Windows</b> ne sont pas visibles, cliquez sur Options des dossiers sous le menu <b>Outils</b>, cliquez sur l'onglet <b>Affichage</b> et d&eacute;sactivez la case &agrave; cocher &laquo;&nbsp;Masquer les extensions des fichiers dont le type est connu&nbsp;&raquo;. </P>
+		</p>
+	</li>
+	<li>
+		<p>Cliquez avec le bouton droit sur le fichier .scr, puis s&eacute;lectionnez &laquo;&nbsp;Installer&nbsp;&raquo;.<br> La bo&icirc;te de dialogue &Eacute;cran de veille Windows s'ouvre.
+	</p></li>
+	
+	<li>
+	<p>Cliquez sur le bouton  <b>Aper&ccedil;u</b> de la bo&icirc;te de dialogue &Eacute;cran de veille.<br> L'&eacute;cran de veille est lanc&eacute;. Appuyez sur une touche pour l'arr&ecirc;ter.</p>
+</li>
+<li>
+	<p>
+		Cliquez sur le bouton <b>Param&egrave;tres</b> dans la bo&icirc;te de dialogue &Eacute;cran de veille Windows pour visualiser les options de l'&eacute;cran de veille. Essayez de changer l'image d'arri&egrave;re-plan ou le flux RSS.</p></li>
+	<li>
+	<p>Cliquez sur <b>OK</b>. <br> &nbsp;</p></li>
+</ol>
+<p>Vous venez d'installer votre propre &eacute;cran de veille Windows.</p>
+
+
+
+<h3>Partage de votre version de l'&eacute;cran de veille avec des amis</h3>
+
+<p>Maintenant que vous disposez d'une version personnalis&eacute;e de l'&eacute;cran de veille, vous pouvez la partager avec vos amis et votre famille. Notez que l'application d'&eacute;cran de veille utilise la version&nbsp;2.0 de .NET&nbsp;Framework, aussi, tout ordinateur qui l'ex&eacute;cute devra disposer de cette version de Framework. Microsoft .NET&nbsp;Framework est install&eacute; dans le cadre de Visual&nbsp;Studio, mais vous pouvez l'installer directement &agrave; partir du <a href="http://go.microsoft.com/fwlink/?LinkId=47766">Centre pour d&eacute;veloppeurs Microsoft .NET Framework</a>. Si vous pr&eacute;voyez de partager votre &eacute;cran de veille avec vos amis, vous devez les informer qu'ils devront installer la nouvelle version de .NET&nbsp;Framework.</p>
+
+<h2><A href="#top"><IMG src="Images\topjump-vc.gif" border=0></A><a name="HowItWorks">Fonctionnement de l'&eacute;cran de veille </a></h2>
+
+<p>Lorsque Windows active l'&eacute;cran de veille &agrave; cause d'une p&eacute;riode d'inactivit&eacute;, l'ex&eacute;cutable est lanc&eacute; (il porte le nom ScreenSaver1.scr &agrave; moins que vous lui ayez attribu&eacute; un autre nom). <br> <br> &Agrave; moins que l'&eacute;cran de veille ait &eacute;t&eacute; demand&eacute; pour ouvrir la bo&icirc;te de dialogue <b>Options</b>, il cr&eacute;e un formulaire Windows Form plein &eacute;cran, ins&egrave;re l'image d'arri&egrave;re-plan par d&eacute;faut et acc&egrave;de &agrave; Internet pour t&eacute;l&eacute;charger et afficher les donn&eacute;es provenant des flux RSS. Deux minuteries mettent &agrave; jour la rubrique actuellement s&eacute;lectionn&eacute;e et modifient l'image d'arri&egrave;re-plan.<br> <br> En cas de d&eacute;placement de la souris ou de clic sur la souris &agrave; un moment ou un autre, ou si une touche est enfonc&eacute;e, le programme se ferme imm&eacute;diatement.</p>
+
+<h3>Fichiers projet de l'&eacute;cran de veille</h3>
+
+<p>Le projet contient huit fichiers de code source C#.</p>
+
+<table border="1" bordercolor= #DDDCD6 width="100%" style="border-collapse: collapse">
+	<tr>
+		<td class="FileNameCol">Program.cs</td>
+		<td>Contient la m&eacute;thode <b>Main()</b>&nbsp;&mdash; l'emplacement auquel le programme commence l'ex&eacute;cution&nbsp;&mdash; et le code pour traiter les commutateurs de ligne de commande</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">OptionsForm.cs</td>
+		<td>Contient le formulaire Windows Form qui affiche les options de param&egrave;tres. &Agrave; partir de cette bo&icirc;te de dialogue, vous pouvez s&eacute;lectionner une image d'arri&egrave;re-plan et un flux RSS &agrave; utiliser lorsque l'&eacute;cran de veille est ex&eacute;cut&eacute;.</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">ScreenSaverForm.cs</td>
+		<td>Contient le formulaire Windows Form principal de l'&eacute;cran de veille. Les images d'arri&egrave;re-plan et le flux RSS s&eacute;lectionn&eacute;s par l'utilisateur sont lus et affich&eacute;s sur ce formulaire plein &eacute;cran.</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">RSSFeed.cs</td>
+		<td>Contient la classe repr&eacute;sentant un flux RSS 2.0.</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">RssChannel.cs</td>
+		<td>Contient la classe repr&eacute;sentant un canal RSS. Chaque flux RSS comprend un seul canal. Il repr&eacute;sente une collection d'articles.</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">RSSItem.cs</td>
+		<td>Contient la classe repr&eacute;sentant un &eacute;l&eacute;ment RSS. Un canal RSS peut inclure n'importe quel nombre d'&eacute;l&eacute;ments RSS. Un &eacute;l&eacute;ment RSS repr&eacute;sente un article, une publication de blog ou un article de presse.</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">Item.cs</td>
+		<td>Contient la classe repr&eacute;sentant un &eacute;l&eacute;ment, un objet dot&eacute; d'un titre et d'une description.</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">ItemDescriptionView.cs</td>
+		<td>Contient le code qui affiche la description d'un &eacute;l&eacute;ment provenant d'un flux RSS. Il appara&icirc;t peu &agrave; peu en fondu dans le texte de l'&eacute;l&eacute;ment, puis dispara&icirc;t de nouveau en fondu.</td>
+	</tr>
+	<tr>
+		<td class="FileNameCol">ItemListView.cs</td>
+		<td>Contient le code qui affiche le titre d'un &eacute;l&eacute;ment provenant d'un flux RSS. Il assure le suivi d'un article actuellement s&eacute;lectionn&eacute;, qu'il peut faire d&eacute;filer en avant ou en arri&egrave;re.</td>
+	</tr>
+	</table>
+
+
+<h2><A href="#top"><IMG src="Images\topjump-vc.gif" border=0></A><a name="Concepts">Concepts</a></h2>
+
+<h3>Interaction de Windows avec les &eacute;crans de veille</h3>
+
+<p>Un &eacute;cran de veille Windows est un ex&eacute;cutable qui ouvre une fen&ecirc;tre en plein &eacute;cran pr&eacute;sentant un affichage graphique changeant, tels que des &eacute;toiles ou une s&eacute;lection de photos. Il est possible d'utiliser n'importe quel ex&eacute;cutable comme &eacute;cran de veille Windows. Pour qu'un ex&eacute;cutable apparaisse dans la bo&icirc;te de dialogue de s&eacute;lection de l'&eacute;cran de veille, il doit simplement &ecirc;tre plac&eacute; dans le r&eacute;pertoire Windows (le r&eacute;pertoire \Windows\System32 du lecteur syst&egrave;me si vous utilisez Windows&nbsp;98 ou Windows&nbsp;XP, ou le r&eacute;pertoire \WinNT\System32 si vous utilisez Windows&nbsp;NT ou Windows&nbsp;2000).<br> <br> Lorsque Windows ex&eacute;cute votre &eacute;cran de veille, il le lance &agrave; l'aide de l'une des trois options de ligne de commande suivantes&nbsp;:</p>
+<ul>
+	<li><b>/s</b> &ndash; Indique &agrave; l'&eacute;cran de veille qu'il doit s'afficher. </li>
+	<li><b>/c</b> &ndash; Indique &agrave; l'&eacute;cran de veille qu'il doit ouvrir sa bo&icirc;te de dialogue Param&egrave;tres.</li>
+	<li><b>/p</b> &ndash; Indique &agrave; l'&eacute;cran de veille qu'il doit afficher un petit aper&ccedil;u.</li>
+</ul>
+<p>Ce Starter Kit g&egrave;re ces arguments dans le fichier source <b>Program.cs</b>. Lorsque vous observez le code dans ce fichier, vous constatez que l'argument&nbsp;<b>/p</b> n'est pas impl&eacute;ment&eacute; par ce Starter Kit.</p>
+<h3>Stockage des options &agrave; l'aide des concepteurs de ressources et de param&egrave;tres</h3>
+<p>&Eacute;tant donn&eacute; que le Starter Kit peut &ecirc;tre ex&eacute;cut&eacute; dans deux modes diff&eacute;rents, il doit disposer d'une m&eacute;thode de stockage de ses param&egrave;tres entre les sessions, ce qu'il fait &agrave; l'aide du Concepteur de param&egrave;tres. Pour le visualiser, cliquez avec le bouton droit sur le n&oelig;ud du projet <b>ScreenSaver</b> dans l'Explorateur de solutions, s&eacute;lectionnez <b>Propri&eacute;t&eacute;s</b>, puis cliquez sur l'onglet <b>Param&egrave;tres</b>. Ce concepteur vous permet d'&eacute;tablir la liste de tous les param&egrave;tres que votre programme souhaite d&eacute;finir et d'y acc&eacute;der &agrave; partir de votre code sous la forme&nbsp;:<br> <br> <span style="font-size:10.0pt;
+font-family:Courier">Properties.Settings.Default.&lt;NomParam&egrave;tre&gt;</span></p>
+<p><br> De la m&ecirc;me mani&egrave;re, le Concepteur de ressources permet de stocker le flux RSS et l'image d'arri&egrave;re-plan par d&eacute;faut. Pour le visualiser, cliquez avec le bouton droit sur le n&oelig;ud du projet <b>ScreenSaver</b> dans l'Explorateur de solutions et s&eacute;lectionnez <b>Propri&eacute;t&eacute;s</b>, puis cliquez sur l'onglet <b>Ressources</b>.</p>
+
+<h3>XML et RSS</h3>
+
+<p>Les flux RSS repr&eacute;sentent un format XML pour la syndication de contenu sur le Web. Ils sont souvent utilis&eacute;s par des sites pour publier leurs listes de nouveaux articles ou de publications de blog. Un flux RSS poss&egrave;de un n&oelig;ud <b>&lt;rss&gt;</b> contenant un n&oelig;ud <b>&lt;channel&gt;</b> (canal). Le n&oelig;ud <b>&lt;channel&gt;</b> poss&egrave;de un ou plusieurs n&oelig;uds &lt;item&gt; (&eacute;l&eacute;ment), un pour chaque article ou publication de blog dans le flux. Il contient &eacute;galement un &eacute;l&eacute;ment <b>&lt;title&gt;</b> (titre), qui contient le titre du canal. Chaque <b>&lt;item&gt;</b> peut contenir un titre, un lien et une description. Voici un exemple tr&egrave;s simple.</p>
+<p>&nbsp;</p>
+
+<div class="CodeBlock">
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New; color: blue">&lt;</span><span style="font-size: 10.0pt; font-family: Courier New; color: maroon">rss</span><span style="font-size: 10.0pt; font-family: Courier New; color: blue"></span> <span style="font-size: 10.0pt; font-family: Courier New; color: red">version</span><span style="font-size: 10.0pt; font-family: Courier New; color: blue">=</span><span style="font-size: 10.0pt; font-family: Courier New">&quot;<span style="color:blue">2.0</span>&quot;<span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">channel</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">title</span><span style="color:blue">&gt;</span>Mon flux<span style="color:blue">&lt;/</span><span style="color:maroon">title</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">description</span><span style="color:blue">&gt;</span>Certains articles.<span style="color:blue">&lt;/</span><span style="color:maroon">description</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">link</span><span style="color:blue">&gt;</span>http://www.microsoft.com/france/msdn/<span style="color:blue">&lt;/</span><span style="color:maroon">link</span><span style="color:blue">&gt;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">item</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">title</span><span style="color:blue">&gt;</span>Article&nbsp;1<span style="color:blue">&lt;/</span><span style="color:maroon">title</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">description</span><span style="color:blue">&gt;</span>R&eacute;sum&eacute; de l'article.<span style="color:blue">&lt;/</span><span style="color:maroon">description</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue">&lt;</span><span style="color:maroon">link</span><span style="color:blue">&gt;</span>http://msdn.microsoft.com/netframework<span style="color:blue">&lt;/</span><span style="color:maroon">link</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;/</span><span style="color:maroon">item</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">item</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">title</span><span style="color:blue">&gt;</span>Article&nbsp;2<span style="color:blue">&lt;/</span><span style="color:maroon">title</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">description</span><span style="color:blue">&gt;</span>Autre article.<span style="color:blue">&lt;/</span><span style="color:maroon">description</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;</span><span style="color:maroon">link</span><span style="color:blue">&gt;</span>http://msdn.microsoft.com/vcsharp/<span style="color:blue">&lt;/</span><span style="color:maroon">link</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">&lt;/</span><span style="color:maroon">item</span><span style="color:blue">&gt;</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp; <span style="color:blue">&lt;/</span><span style="color:maroon">channel</span><span style="color:blue">&gt;</span></span></p>
+		<span style="font-size: 10.0pt; font-family: Courier New; color: blue">&lt;/</span><span style="font-size: 10.0pt; font-family: Courier New; color: maroon">rss</span><span style="font-size: 10.0pt; font-family: Courier New; color: blue">&gt;</span>
+</div>
+
+<h2><A href="#top"><IMG src="Images\topjump-vc.gif" border=0></A><a name="Extending">Am&eacute;lioration de l'&eacute;cran de veille</a></h2>
+
+<h3>Ajout d'une prise en charge du clavier</h3>
+
+<p>L'une des m&eacute;thodes simples d'am&eacute;lioration de l'&eacute;cran de veille consiste &agrave; ajouter une prise en charge du clavier. Par exemple, vous pouvez autoriser l'utilisateur &agrave; s&eacute;lectionner l'&eacute;l&eacute;ment RSS actuel &agrave; l'aide des touches du curseur. La proc&eacute;dure &agrave; suivre est indiqu&eacute;e ci-dessous.</p>
+
+<p class="ProcedureLabel">Pour ajouter une prise en charge du clavier&nbsp;:</p>
+
+<ol>
+	<li>Dans l'Explorateur de solutions, cliquez avec le bouton droit sur <b>ScreenSaverForm.cs</b> et s&eacute;lectionnez <b>Concepteur de vues</b>.
+	</li>
+	<li>Si la fen&ecirc;tre <b>Propri&eacute;t&eacute;s</b> n'est pas encore affich&eacute;e, ouvrez-la en cliquant sur le menu <b>Affichage</b>, puis en s&eacute;lectionnant <b>Fen&ecirc;tre Propri&eacute;t&eacute;s</b>.</li>
+	<li>Dans la liste d&eacute;roulante situ&eacute;e en  haut de la fen&ecirc;tre <b>Propri&eacute;t&eacute;s</b>, s&eacute;lectionnez <b>ScreenSaverForm</b>.
+	</li>
+	<li>Cliquez sur le bouton <b>&Eacute;v&eacute;nements</b> (l'&eacute;clair) pour voir les &eacute;v&eacute;nements que le formulaire peut d&eacute;clencher.</li>
+	<li>Recherchez l'&eacute;v&eacute;nement <b>KeyDown</b>. Il aura une m&eacute;thode, <font face="Courier">ScreenSaverForm_KeyDown</font>, r&eacute;pertori&eacute;e comme gestionnaire pour l'&eacute;v&eacute;nement.</li>
+	<li>Double-cliquez sur l'&eacute;v&eacute;nement <b>KeyDown</b>.<br> Ceci ouvre le mode Code et vous am&egrave;ne &agrave; la m&eacute;thode <font face="Courier">ScreenSaverForm_KeyDown</font>.</li>
+	<li><p>Remplacez la ligne <font face="Courier">Close();</font> par ce qui suit&nbsp;:</p>
+	<div class="CodeBlock">
+		<p class="MsoNormal" style="margin-left:.75in;text-indent:.25in">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;;color:blue">switch</span><span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">(e.KeyCode)</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">case</span> <span style="color:teal">Keys</span>.Down:</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:gray">// Faire pivoter les articles vers le bas.</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rssView.NextArticle();</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue">&nbsp;&nbsp;&nbsp; break</span>;</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">&nbsp;&nbsp;&nbsp; case</span> <span style="color:teal">Keys</span>.Up:</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:gray">&nbsp;&nbsp;&nbsp; // Faire pivoter les articles vers le haut.</span></span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rssView.PreviousArticle();</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue">&nbsp;&nbsp;&nbsp; break</span>;</span></p>
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue">&nbsp;&nbsp;&nbsp; default</span>:</span>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Close();</span></p>
+		<p class="MsoNormal">
+		<span style="font-size:10.0pt;font-family:&quot;Courier New&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue">&nbsp;&nbsp;&nbsp; break</span>;</span></p>
+		<span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</span>&nbsp;
+    </div>
+	<li>Enregistrez le fichier, puis appuyez sur <b>F5</b> pour ex&eacute;cuter le projet.</li>
+	<li>Lorsque l'&eacute;cran de veille est en cours d'ex&eacute;cution, appuyez sur les touches <b>Haut</b> et <b>Bas</b> pour changer l'article actuellement s&eacute;lectionn&eacute;.</li>
+</ol>
+<h3>Suggestions compl&eacute;mentaires</h3>
+
+<p>L'application d'&eacute;cran de veille est con&ccedil;ue pour &ecirc;tre facilement modulable et personnalisable. Voici quelques id&eacute;es pour cela&nbsp;:</p>
+
+<ul>
+	<li><i><b>S&eacute;lectionnez votre propre image par d&eacute;faut int&eacute;gr&eacute;e&nbsp;:<br></b></i>Remplacez l'image d'&eacute;cran de veille par d&eacute;faut par l'image de votre choix.</li>
+	<li><i><b>Affichez des informations m&eacute;t&eacute;orologiques dans le coin sup&eacute;rieur droit</b>&nbsp;:<br></i>Utilisez un service Web tel que <a href="http://go.microsoft.com/fwlink/?LinkId=47764">celui-ci</a> pour r&eacute;cup&eacute;rer des informations m&eacute;t&eacute;orologiques, puis afficher des d&eacute;tails de la m&eacute;t&eacute;o actuelle dans le coin sup&eacute;rieur droit de l'&eacute;cran.</li>
+	<li><i><b>G&eacute;n&eacute;rez votre propre &eacute;cran de veille&nbsp;</b>:<br></i>Remplacez <b>ScreenSaverForm</b> par un autre Windows Form qui affiche un &eacute;cran de veille totalement diff&eacute;rent. Observez les &eacute;crans de veille Windows existants pour avoir des id&eacute;es&nbsp;&ndash; les &Eacute;toiles et les Canalisations 3D ont d&eacute;j&agrave; &eacute;t&eacute; utilis&eacute;es maintes fois&nbsp;; que pourriez-vous trouver de nouveau&nbsp;? Le fichier <b>Program.cs</b> g&egrave;re toutes les options de ligne de commande permettant de prendre en charge un &eacute;cran de veille.</li>
+	<li><i><b>Plusieurs flux RSS&nbsp;</b>:<br></i>D&eacute;veloppez la bo&icirc;te de dialogue <b>Options</b> pour autoriser l'utilisateur &agrave; s&eacute;lectionner un ensemble de flux RSS qui permettront de recueillir de nouveaux articles. Vous pouvez r&eacute;aliser cela de plusieurs mani&egrave;res&nbsp;:<br>1. La bo&icirc;te de dialogue <b>Options</b> permet &agrave; l'utilisateur de s&eacute;lectionner un fichier OPML contenant une liste de flux RSS, <br>-ou-<br>2. La bo&icirc;te de dialogue <b>Options</b> permet &agrave; l'utilisateur de remplir une liste de flux RSS.<br>Un flux al&eacute;atoire peut &ecirc;tre choisi lorsque l'&eacute;cran de veille se charge, puis un nouveau flux peut &ecirc;tre choisi chaque fois que l'&eacute;cran de veille arr&ecirc;te d'afficher le contenu d'un flux.</li>
+	<li><i><b>Terminez d'impl&eacute;menter les classes RSS&nbsp;</b>:<br></i>Les classes RSS fournies dans ce Starter Kit ne g&egrave;rent pas l'int&eacute;gralit&eacute; de la <a href="http://go.microsoft.com/fwlink/?LinkId=47765">sp&eacute;cification RSS&nbsp;2.0</a>. Le reste de la sp&eacute;cification peut &ecirc;tre ajout&eacute; &agrave; ces classes. Les classes peuvent alors &ecirc;tre &laquo;&nbsp;empaquet&eacute;es&nbsp;&raquo; sous la forme d'une dll, puis r&eacute;utilis&eacute;es dans une autre application.</li>
+	<li><i><b>R&eacute;utilisez les classes RSS&nbsp;</b>:<br></i>Les classes RSS ne pouvaient pas &ecirc;tre r&eacute;utilis&eacute;es dans une autre application. Vous avez la possibilit&eacute; d'&eacute;crire votre agr&eacute;gateur RSS ou de cr&eacute;er une application System Tray (barre d'&eacute;tat syst&egrave;me) qui fait appara&icirc;tre un article toutes les heures.
+	</li>
+</ul>
+
+
+<h2><A href="#top"><IMG src="Images\topjump-vc.gif" border=0></A><a name="ForMoreInformation">Pour plus d'informations</a></h2>
+
+<h3>Ressources en ligne</h3>
+
+<ul>
+	<li><a href="http://go.microsoft.com/fwlink/?linkid=35117">Fournissez des commentaires sur cette documentation</a></li>
+	<li><a href="http://go.microsoft.com/fwlink/?linkid=29939">Visual C# sur MSDN</a></li>
+	<li><a href="http://go.microsoft.com/fwlink/?LinkId=47765">Sp&eacute;cification RSS&nbsp;2.0</a></li>
+	<li><a href="http://go.microsoft.com/fwlink/?LinkId=47767">Flux RSS MSDN</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>
+<a href="http://www.microsoft.com/france/core/copyright.mspx">&copy; Microsoft Corporation et/ou ses fournisseurs. Tous droits r&eacute;serv&eacute;s. Conditions d'utilisation.</a>
+</p>
+
+<!-- NE PAS MODIFIER AU-DESSOUS DE CETTE LIGNE  -->
+<p>&nbsp;</p>
+</div>
+</body>
+</html>

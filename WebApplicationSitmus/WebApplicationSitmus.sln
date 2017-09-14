@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebApplicationSitmus", "WebApplicationSitmus\WebApplicationSitmus.vbproj", "{6CEDB658-665D-4610-B220-9C7F031317AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{AD8B0DFB-7F7F-4C88-806A-119B356D3AAD}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\AzureWebsitePublishModule.psm1 = PublishScripts\AzureWebsitePublishModule.psm1
+		PublishScripts\Publish-WebApplicationWebsite.ps1 = PublishScripts\Publish-WebApplicationWebsite.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{81BF6DE9-E224-469B-BE90-C9B317E49F76}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Configurations\WebApplicationSitmus-WAWS-dev.json = PublishScripts\Configurations\WebApplicationSitmus-WAWS-dev.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pierrecontri.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebApplicationSitmus\\WebApplicationSitmus.vbproj
+		SccProjectName1 = WebApplicationSitmus
+		SccLocalPath1 = WebApplicationSitmus
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEDB658-665D-4610-B220-9C7F031317AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEDB658-665D-4610-B220-9C7F031317AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEDB658-665D-4610-B220-9C7F031317AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEDB658-665D-4610-B220-9C7F031317AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81BF6DE9-E224-469B-BE90-C9B317E49F76} = {AD8B0DFB-7F7F-4C88-806A-119B356D3AAD}
+	EndGlobalSection
+EndGlobal

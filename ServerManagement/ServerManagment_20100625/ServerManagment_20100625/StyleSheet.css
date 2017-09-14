@@ -1,0 +1,193 @@
+﻿/*
+
+Partie balises
+
+*/
+H6 
+{  color: white;
+   font-size:12pt;
+   display: inline ;
+} 
+
+H1
+{
+    font-family:Serif; 
+    color : rgb(0,34,66); /* #00162C */
+    font-size : 20pts;
+    display : inline;
+    text-align:center;
+    font-weight: bold;
+    border-bottom : solid 2px white; 
+    width: 100%;
+} 
+
+BODY
+{
+    padding: 0px;
+    margin: 0px;
+    color: Black;
+}    
+
+A
+{
+    color: Black;
+}
+ 
+A:hover
+{
+    font-style : italic;   
+}  
+
+/*
+
+Partie class
+
+*/
+.menu
+{
+    font-family: Comic Sans MS;
+}
+
+.PageTitle
+{
+    vertical-align:top;
+}
+
+.ImageTitle
+{
+    text-align:left;
+    vertical-align:top;
+}
+
+.MainTitle
+{
+    padding: 0px;
+    margin: 0px;
+    font-family:Serif; 
+    color : rgb(0,34,66); /* #00162C */
+    font-size: 42px;
+    text-align:center;
+    vertical-align:top;
+    font-weight: bold;
+    /*border-bottom : solid 2px white;*/
+    width: 100%;
+    height: 67px;
+}
+
+DIV.MainTitle
+{
+    padding-left: 100px;
+	background-image: url('style/images/full_brand_image.gif');
+    background-repeat: no-repeat;
+}
+
+.machineName
+{
+	border : 0px none;
+	width: 100%;
+    background-image : url('style/images/AppNav.jpg');
+    background-repeat:repeat-x;
+}
+
+.ServiceControlContent
+{
+
+    border-top: 1px solid #00162C;
+    border-left: 1px solid #00162C;
+    border-right: 2px outset #F4F4F7;
+    border-bottom: 2px outset #F4F4F7;
+
+    background-color: #F4F4F7;
+    margin: 10px;
+    width: 800px;
+    /*height: 60px;*/
+}
+
+.ServicesTabs
+{
+    width: 740px;
+}
+
+.ServicesTabsView
+{
+    width: 480px;
+}
+
+.labelMachine
+{
+    color: white;
+    font-size:18pt;
+    width: 100%;
+    /* padding */
+    /* margin */
+}
+
+.divMenu
+{
+    font-size : 18pt;
+    text-align:center;
+}
+
+.FormMail
+{
+    text-align : center;
+}
+
+.PageContent
+{
+    /*padding-left:6px;
+    border:solid 1px #00162C ;*/
+}
+
+.buttons
+{
+	text-align: center;
+    border: 0px none;
+    color: White;
+}
+
+/*
+
+Partie id
+
+*/
+
+#LogoTkt
+{
+    
+}
+
+#tete
+{
+   
+    background-image:url('style/images/logotkt__93884B05_.png');
+    background-repeat: no-repeat;
+    height:100px;
+    width:200px;
+    
+}
+
+/* Mix between class and tags */
+
+TABLE.menu
+{
+    background-image : url('style/images/AppNav.jpg');
+    background-repeat:repeat;
+    width: 100%;
+}
+
+TR.menu
+{
+    text-align : center ;
+   
+}
+
+TD.menu
+{
+    width: 20%;
+}
+
+A.menu, A.menu:hover
+{
+    color: white;
+}

@@ -1,0 +1,4 @@
+w3wp.exe Information: 0 : ServiceController.GetServices("b11345n.europe.prestagroup.com")
+    DateTime=2010-09-06T15:58:14.5266143Z
+w3wp.exe Warning: 0 : TKPEUROPE\CONPIE : True
+    DateTime=2010-09-06T15:58:14.5266143Z

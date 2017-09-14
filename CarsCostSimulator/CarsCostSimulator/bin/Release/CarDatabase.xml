@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<database>
+  <Car id="01">
+    <consumption>5.4</consumption>
+    <driver>builder</driver>
+    <fuel>diesel</fuel>
+    <insuranceprice>350.0</insuranceprice>
+    <name>Dacia Logan 1.5 dci</name>
+    <price>12500.0</price>
+    <tanksize>52.0</tanksize>
+    <Wearpart id="01">
+      <name>Couroie</name>
+      <periodicity>80000.0</periodicity>
+      <price>450.0</price>
+    </Wearpart>
+    <Wearpart id="02">
+      <name>Entretien</name>
+      <periodicity>20000.0</periodicity>
+      <price>80.0</price>
+    </Wearpart>
+  </Car>
+  <Car id="02">
+    <consumption>6.2</consumption>
+    <driver>Pierre</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>350.0</insuranceprice>
+    <name>Dacia Logan 1.2</name>
+    <price>9500.0</price>
+    <tanksize>52.0</tanksize>
+    <Wearpart id="01">
+      <name>Couroie</name>
+      <periodicity>80000.0</periodicity>
+      <price>450.0</price>
+    </Wearpart>
+    <Wearpart id="02">
+      <name>Entretien</name>
+      <periodicity>20000.0</periodicity>
+      <price>7</price>
+    </Wearpart>
+  </Car>
+  <Car id="03">
+    <consumption>4.6</consumption>
+    <driver>normal</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>300</insuranceprice>
+    <name>Aygo</name>
+    <price>8000</price>
+    <tanksize>38</tanksize>
+    <Wearpart id="01">
+      <name>Vidange</name>
+      <periodicity>17000</periodicity>
+      <price>210</price>
+    </Wearpart>
+  </Car>
+  <Fuel id="02">
+    <name>essence</name>
+    <price>1.529</price>
+  </Fuel>
+  <Fuel id="03">
+    <name>diesel</name>
+    <price>1.459</price>
+  </Fuel>
+  <Fuel>
+    <name>GPL</name>
+    <price>0.9</price>
+  </Fuel>
+  <Driver id="01">
+    <drivertype>normal</drivertype>
+    <kmperyear>25000.0</kmperyear>
+    <maxkilometers>201000.0</maxkilometers>
+    <name>AutoPlus</name>
+  </Driver>
+  <Driver id="02">
+    <drivertype>builder</drivertype>
+    <kmperyear>30000.0</kmperyear>
+    <maxkilometers>601000.0</maxkilometers>
+    <name>builder</name>
+  </Driver>
+  <Driver id="03">
+    <drivertype>slowly</drivertype>
+    <kmperyear>50000</kmperyear>
+    <maxkilometers>500000</maxkilometers>
+    <name>Pierre</name>
+  </Driver>
+  <Drivertype id="01">
+    <drivingcoefficient>1.1</drivingcoefficient>
+    <name>normal</name>
+  </Drivertype>
+  <Drivertype id="02">
+    <drivingcoefficient>1.0</drivingcoefficient>
+    <name>builder</name>
+  </Drivertype>
+  <Drivertype id="03">
+    <drivingcoefficient>0.9</drivingcoefficient>
+    <name>slowly</name>
+  </Drivertype>
+</database>
